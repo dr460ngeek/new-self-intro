@@ -188,9 +188,9 @@ main hr {
   padding: 15vh 16px;
 }
 #project h2 {
-  font-size: xx-large;
-  text-align: left;
-  margin-left: 1rem;
+  font-size: 50px;
+  text-align: center;
+  /* margin-left: 1rem; */
 }
 .project-container {
   display: grid;
@@ -266,11 +266,11 @@ main hr {
   margin-bottom: 20px;
 }
 .about-img-container img {
-  border-radius: 50%;
+  border-radius:20%;
   border: 2px solid white;
 }
 .about-social-container {
-  margin: 10px -10px;
+  margin: 35px -10px;
   display: flex;
   justify-content: space-around;
   padding: 0 1em;
@@ -291,7 +291,7 @@ main hr {
   margin: 0 30px;
 }
 #about h3 {
-  text-align: left;
+  text-align: center;
   margin: 10px 20px;
 }
 .skill li {
@@ -391,9 +391,12 @@ footer {
   }
 }
 
-.gradient {
+.abouth2{
   text-align: center;
   font-size: 2rem;
+}
+
+.gradient {
   background: linear-gradient(
     -35deg,
     var(--text-color-1) 0%,
