@@ -2,9 +2,9 @@
 Basic yet functional & responsive website for my self introduction. I might add a CV and linkdin profile link if I make one in future.
 
 # Website-Preview Link
-
-https://dr460ngeek.github.io/new-self-intro/
-https://dr460ngeek.vercel.app/
+<a href="https://dr460ngeek.github.io/new-self-intro/"> GitHub </a>
+<br>
+<a href="https://dr460ngeek.vercel.app/"> Vercel </a>
 
 # Source Code 
 
