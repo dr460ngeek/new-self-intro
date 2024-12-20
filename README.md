@@ -15,7 +15,7 @@ Thanks <u><a href="https://www.instagram.com/kjsrod?igsh=MWhxazQ4dnB4bmxveA==" t
 
 # Source Code 
 
-```Ae tu gaand mara. GitHub use karna seekh lo.```
+```GitHub use karna seekh lo.```
 
 # Disclaimer
 I give the right to everyone to edit it and make their own versions of it for personal use. Neah, I don't mind my stuff getting copied.
